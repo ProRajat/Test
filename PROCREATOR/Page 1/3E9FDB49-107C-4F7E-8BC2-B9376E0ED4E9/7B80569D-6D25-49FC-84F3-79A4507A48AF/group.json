@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7B80569D-6D25-49FC-84F3-79A4507A48AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 17,
+    "x": 725,
+    "y": 131
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9E8861FA-058B-4B60-8E44-AA48E76FE76C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D152A60-2C4C-486B-808F-D1D8572BF03B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E21818B-F399-4493-B5D2-6E95EFDB2545"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7C301CD-6BC3-4D42-BFC9-4B70DD7549B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58DAD429-EFF3-4773-A81D-4D734769E9E5"
+    }
+  ],
+  "name": "Dropbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

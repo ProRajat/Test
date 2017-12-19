@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "F393F440-561D-4B43-9DF0-E99309714324",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3EDFD6D3-1F05-49FB-884C-3F11FF2E28D7"
+    },
+    {
+      "class": "text",
+      "id": "A7B72251-E9A9-4FE1-B0A7-19E59B96C73A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "852CE265-DE4E-458F-AB84-EBAA11CCFD3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28FC5760-42D0-4584-A091-5EDDA8B2DE54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF348B7A-AA3A-4EAB-926F-2AA4A3738B40"
+    },
+    {
+      "class": "group",
+      "id": "47D5A874-7C88-403E-89B4-5AA84D242BD3"
+    }
+  ],
+  "name": "Input + Icon Disabled",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

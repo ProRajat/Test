@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "F8DBFF39-F8FE-42D9-9894-651EFFCD12B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 10,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3CE1413C-0D39-400E-BE47-FF1F2FB51AA6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B6396EA-C468-40FB-999B-4E0032A181E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD37572A-EF4B-4098-AF00-82F13F26B648"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D78F3B16-876D-4DD0-B675-75658028500F"
+    }
+  ],
+  "name": "Navigation Circle Vertical",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

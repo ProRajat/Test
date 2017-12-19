@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "E1657BD4-A232-444E-A28C-4B7D47EB3635",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 38,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FB5C2770-E4A2-4BFA-9677-E5E5AD355123"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3B745DC-4E10-4B8D-A1D2-64C17B34CE32"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5B64EFF-7390-4C10-BF04-F22F03BF8D46"
+    }
+  ],
+  "name": "Arrow Circle Left",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
